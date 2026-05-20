@@ -1,0 +1,59 @@
+{
+    "true_false": [
+        {
+            "topic": "Student Sustainability Leadership Program",
+            "question": "The Student Sustainability Leadership Program (SSLP) is only for students with environmental majors.",
+            "answer": "false"
+        },
+        {
+            "topic": "Energy",
+            "question": "Keeping blinds closed during hottest parts of the day to limit excess heat in the summer is a way to conserve energy.",
+            "answer": "true"
+        },
+        {
+            "topic": "Pollinator Path",
+            "question": "The Pollinator Path is a series of gardens around campus which attract pollinators and support the study of pollinator activity on campus.",
+            "answer": "true"
+        },
+        {
+            "topic": "Bike",
+            "question" : "A bike repair station is located between ASC and O'Shaughnessy Stadium.",
+            "answer": "true"
+        },
+        {
+            "topic": "Food",
+            "question": "You get 25 cents off for bringing a reusable cup at campus coffee shops.",
+            "answer": "true"
+        },
+        {
+            "topic": "Water",
+            "question": "The water that collects in the storm drains located on campus and the surrounding streets ends up in the Mississippi River.",
+            "answer": "true"
+        },
+        {
+            "topic": "Academics/Research",
+            "question": "St. Thomas does not offer a sustainability minor.",
+            "answer": "false"
+        },
+        {
+            "topic" : "Reuse",
+            "question": "Tommies Closet is a monthly pop-up that allows students to shop for secondhand clothes donated by fello Tommies",
+            "answer":"true"
+        },
+        {
+            "topic": "Recycling",
+            "question": "Plastic bags can be recycled in the blue recylcing bins around campus",
+            "answer": "false"
+        },
+        {
+            "topic": "Organics Recycling",
+            "question": "At St. Thomas items that are placed in the green organics recycling bins are turned into compost that can be used in gardens and lawns.",
+            "answer": "true"
+        },
+        {
+            "topic": "Specialized Recycling",
+            "question": "Plastic bags are accepted for recycling at the specialized recycling stations on campus.",
+            "answer": "true"
+        }
+    ]
+}
